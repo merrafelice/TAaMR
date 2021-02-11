@@ -67,3 +67,6 @@ If you use this code, please cite us:
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
+
+An extension of this work has been presented at the 1st Workshop on Dataset Curation and Security co-located with the 34th Conference on Neural InformationProcessing Systems (NeurIPS 2020), Vancouver, Canada (Virtual Event). - dec 2020. [Paper](http://sisinflab.poliba.it/publications/2020/ADMM20/CR_WDCS_NeurIPS2020_Assessing_Perceptual_and_Recommendation_Mutation_of_Adversarialli_Poisoned_Visual_Recommenders.pdf)
+
